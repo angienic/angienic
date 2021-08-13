@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
 Welcome my personal project drawer, the place where I keep track of my day to day work and test some of my own ideas.
-- 🔭    I am currently working on a portfolio piece that started as part of a data science program capstone project. I learojectned a ton and will show you a good sneek peak soon.
-- 💬    Ask me about what I've learned after years analyzing biological data in R, what I found while investigating supply chains or about my fun python side projects!
+- 🔭    I am currently working on a portfolio piece that started as part of a data science program capstone project. I learned a ton and I am polishing my analysis. Stay tuned for a sneek peak soon!
+- 💬    Please ask me about what I've learned after years analyzing biological data in R, what I found while investigating supply chains or about any of my fun python side projects!
 - 🌱    I’m learning NLP and looking for collaborative projects.
 - 📫    Feel free to reach out! I am also at linkedin.com/in/angienicolas/
 
