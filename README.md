@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Welcome to my ideas and data project drawer, and the place where I try to keep track of my work.
+Welcome my data drawer, the place where I try to keep track of my day to day work and test some ideas.
 - 🔭   I am currently working on a portfolio piece that started as part of a data science program capstone project. I learojectned a ton and will show you a good sneek peak soon.
 - 💬   Ask me about what I've learned after years analyzing biological data in R, what I found while investigating supply chains or about my fun python side projects!
 - 📫   Feel free to reach me at linkedin.com/in/angienicolas/
