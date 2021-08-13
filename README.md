@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome to my ideas and data project drawer.
+🔭 I am currently working on a portfolio piece that started as part of a data science program capstone project. I learojectned a ton and will show you a good sneek peak soon.
+💬 Ask me about what I've learned after years analyzing biological data in R, what I found while investigating supply chains or about my fun python side projects!
+📫 How to reach me: https://www.linkedin.com/in/angienicolas/.
+
+Thanks for stopping by!
+
 <!--
 **angienic/angienic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
