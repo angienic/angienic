@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Welcome my personal project drawer, the place where I keep track of my day to day analysis and test some of my own ideas.
+Welcome to my personal project drawer, the place where I keep track of my day to day analysis and test some of my own ideas.
 - 🔭    I am currently working on a portfolio piece that started as part of a data science program capstone project investigating supply chains. I learned a ton! Stay tuned for a sneek peak soon!
 - 💬    Ask me about what I've learned after years analyzing biological data in R or about my fun Python side projects!
 - 🌱    I’m learning NLP and looking for collaborative projects.
