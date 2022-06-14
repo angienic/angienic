@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 Welcome to my personal project drawer, the place where I keep track of my day to day analysis while I play with my own ideas.
-- 🔭    I am currently working on a portfolio piece that started as part of a data science program capstone project investigating supply chains. I learned a ton! Here's a [portfolio sneek peak](https://angienic.github.io/My_Portfolio/)
+- 🔭    I am currently working on a portfolio piece that started as part of a data science program capstone project investigating supply chains. I learned a ton! Here's a [portfolio sneek peak](https://angienic.github.io/Portfolio/)
 - 💬    Ask me about what I've learned after years analyzing biological data in R or about my fun Python side projects!
 - 🌱    I’m learning NLP and looking for collaborative projects. Hit me up if you want to check out some ideas.
 - 📫    Feel free to reach out here or via [linkedin](linkedin.com/in/angienicolas/)
